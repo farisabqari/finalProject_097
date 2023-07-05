@@ -96,6 +96,7 @@ int main() {
 	cout << "Keliling Lingkaran: " << Lingkaran.Keliling() << endl;
 
 
+
 	PersegiPanjang PersegiPanjang;
 	cout << "PersegiPanjang dibuat " << endl;
 	PersegiPanjang.input();
